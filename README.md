@@ -1,1 +1,1 @@
-# rxjs
+# rxjs learing project
